@@ -39,9 +39,6 @@ Collection Agents: Manage and track waste collection requests efficiently.
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Contact
 For any questions or feedback, please contact [ambadysaji69@gmail.com].
 
